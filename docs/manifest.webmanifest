@@ -6,9 +6,9 @@
   "background_color": "#f5f5f5",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": "/",
-  "id": "/",
-  "scope": "/",
+  "start_url": "./",
+  "id": "./",
+  "scope": "./",
   "prefer_related_applications": false,
   "categories": ["fitness", "health", "lifestyle"],
   "screenshots": [
@@ -51,7 +51,7 @@
       "src": "/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ]
 }
